@@ -1,6 +1,6 @@
 # cDgDdZHw
 
-Quick start:
+Quick start: My first static webpages(Earth-Mars)
 
 ```
 $ npm install
